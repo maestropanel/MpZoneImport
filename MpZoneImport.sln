@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MpZoneImport", "MpZoneImport\MpZoneImport.csproj", "{635411BE-0E42-46E4-8363-158B4F4674DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MpZoneImport.Test", "MpZoneImport.Test\MpZoneImport.Test.csproj", "{F79AC948-4B4F-4B0A-8EAC-C295BD87D4E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZoneImport", "ZoneImport\ZoneImport.csproj", "{789107BF-0F04-4BE9-B603-892B0F3AABCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{635411BE-0E42-46E4-8363-158B4F4674DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{635411BE-0E42-46E4-8363-158B4F4674DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{635411BE-0E42-46E4-8363-158B4F4674DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{635411BE-0E42-46E4-8363-158B4F4674DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F79AC948-4B4F-4B0A-8EAC-C295BD87D4E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F79AC948-4B4F-4B0A-8EAC-C295BD87D4E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F79AC948-4B4F-4B0A-8EAC-C295BD87D4E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F79AC948-4B4F-4B0A-8EAC-C295BD87D4E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{789107BF-0F04-4BE9-B603-892B0F3AABCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{789107BF-0F04-4BE9-B603-892B0F3AABCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{789107BF-0F04-4BE9-B603-892B0F3AABCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{789107BF-0F04-4BE9-B603-892B0F3AABCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
