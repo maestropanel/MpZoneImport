@@ -122,7 +122,7 @@
         {
             var _parser = new MsDnsZoneParser(_zoneDirectory);
             var _api = new ApiClient(_apiKey, _apiHost, _defaultPort, _defaultSSL, format:"XML", suppressResponse:true,
-                suppressDnsZoneIP: false, generatePassword:false);
+                suppressDnsZoneIP: true, generatePassword:false);
             
             var ZoneList = _parser.Start();
 
